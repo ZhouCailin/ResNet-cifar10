@@ -24,4 +24,4 @@ python project1_model.py
 ## Accuracy
 | Test Error            | Acc.        |
 | ----------------- | ----------- |
-| 0.0893             | 92.64%      |
+| 0.0893             | 91.07%      |
